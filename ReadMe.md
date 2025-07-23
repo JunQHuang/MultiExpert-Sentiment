@@ -2,6 +2,12 @@
 
 [Optimizing Sentiment Inference with Multi-Expert Models via Real-Time GPU Resource Monitoring | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/10788354)
 
+### 共创者
+
+- [JunQHuang](https://github.com/JunQHuang)
+- [MengChuishuo](https://github.com/MengChuishuo)
+- [lettuce09](https://github.com/lettuce09)
+  
 
 ### 详细项目描述：
 
